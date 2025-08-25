@@ -1,17 +1,45 @@
-Source:
-► National Center for Health Statistics
-► Dataset name;
-► Leading Causes of Death in the United States, 1999-2017
-► Retrieved from data.CDC.gov;
-► https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index.htm
+This project explores the 10 leading causes of death in the United States from 1999 to 2017 using CDC mortality data. The analysis focuses on trends, patterns, and state-level differences, with the goal of delivering clear and interactive visual insights into public health outcomes.
 
-► Description:
-► The number of deaths and age-adjusted death rates for the 10 leading causes of death
-► All the causes of death combined, in the United States and by state for 1999-2017
-► Size of the dataset; 10869 * 6 (Rows * Columns)
-► The scope of the project includes;
-► Exploratory data analysis
-► Map visualization
-► Aggregation visualization
-► Interactive visualization
-► Python program codes used in the project
+The project demonstrates skills in exploratory data analysis (EDA), data visualization, and Python programming.
+
+📂 Dataset
+
+Source: National Center for Health Statistics (NCHS)
+
+Dataset Name: Leading Causes of Death in the United States, 1999–2017
+
+Retrieved From: CDC Data Portal
+
+Size: 10,869 rows × 6 columns
+
+Description:
+
+Annual number of deaths and age-adjusted death rates for the 10 leading causes of death.
+
+Includes aggregated data for all causes combined.
+
+Data available at both national and state levels.
+
+🔍 Scope of Work
+
+The project includes:
+
+Exploratory Data Analysis (EDA): Identifying patterns and trends in causes of death over time.
+
+Map Visualization: State-level mortality comparisons via choropleth maps.
+
+Aggregation Visualization: Summarized death counts and rates by cause and year.
+
+Interactive Visualization: Dynamic charts for exploring mortality by state, year, and cause.
+
+Python Implementation: All analyses and visualizations implemented in Python.
+
+🛠️ Tools & Technologies
+
+Programming: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, GeoPandas
+
+Visualization: Interactive dashboards and maps
+
+Environment: Jupyter Notebook / Python IDE
